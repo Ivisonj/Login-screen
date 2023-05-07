@@ -1,6 +1,6 @@
 # Tela de Login
 
-<img src="assets/img/screen.png" alt="Tela de Login">
+<img src="assets/img/screen.png" alt="login">
 
 ## Descrição
 

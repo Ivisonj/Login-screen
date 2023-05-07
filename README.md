@@ -1,6 +1,6 @@
 # Tela de Login
 
-<img src="assets/img/screen.png" alt="login">
+<img src="assets/img/screen.png" alt="login" style="width: 600px; height: 500px;">
 
 ## Descrição
 
